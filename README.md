@@ -27,13 +27,11 @@ https://github.com/t109ab0014/3D_Emotion-visual/assets/131231801/89ccd033-7a9c-4
 
 ## 參考文獻
 - Cheng, Shenghe. "Visual Expression of Emotion in Dynamic 3D Painting System Based on Emotion Synthesis Model."
-| ![fpsyg-12-730066-g005](https://github.com/t109ab0014/3D_Emotion-visual/assets/131231801/34d9e9dc-2363-4eb8-845d-ec5340650a91) | ![fpsyg-12-730066-g004](https://github.com/t109ab0014/3D_Emotion-visual/assets/131231801/c21689c5-b752-4ad2-803e-70cb837d9089) |
-|:---------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
-
-|  表头   | 表头  |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
+|  ----  |
+| ![fpsyg-12-730066-g005](https://github.com/t109ab0014/3D_Emotion-visual/assets/131231801/34d9e9dc-2363-4eb8-845d-ec5340650a91) | 
+|  ----  |
+| ![fpsyg-12-730066-g004](https://github.com/t109ab0014/3D_Emotion-visual/assets/131231801/c21689c5-b752-4ad2-803e-70cb837d9089)  |
+|  ----  |
 
 ## 聯繫方式
 如有任何疑問或合作意向，請通過 [GitHub](https://github.com/t109ab0014) 聯繫我。
