@@ -14,7 +14,7 @@
 1. 訪問 [CodePen項目頁面](https://codepen.io/t109ab0014/pen/ExdZoXz) 以查看前端示範。
 2. 使用 [ECharts](https://echarts.apache.org/examples) 進行圖表的生成和自定義。
    
-# 示範影片
+# 示範影片 (憂鬱)
 https://github.com/t109ab0014/3D_Emotion-visual/assets/131231801/89ccd033-7a9c-4d76-b9e4-fd46631f3e9f
 
 
