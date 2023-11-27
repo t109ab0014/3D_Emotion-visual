@@ -13,7 +13,7 @@
 ## 如何使用
 1. 訪問 [CodePen項目頁面](https://codepen.io/t109ab0014/pen/ExdZoXz) 以查看前端示範。
 2. 使用 [ECharts](https://echarts.apache.org/examples) 進行圖表的生成和自定義。
-3. 觀看 [示範影片](https://github.com/t109ab0014/3D_Emotion-visual/blob/main/%E8%9E%A2%E5%B9%95%E9%8C%84%E5%BD%B1%202023-11-27%20%E4%B8%8A%E5%8D%889.39.45.mov) 以了解更多詳情。
+3. 觀看 [![示範影片]]([https://github.com/t109ab0014/3D_Emotion-visual/blob/main/%E8%9E%A2%E5%B9%95%E9%8C%84%E5%BD%B1%202023-11-27%20%E4%B8%8A%E5%8D%889.39.45.mov](https://github.com/t109ab0014/3D_Emotion-visual/blob/main/%E8%9E%A2%E5%B9%95%E9%8C%84%E5%BD%B1%202023-11-27%20%E4%B8%8A%E5%8D%889.39.45.mov)) 以了解更多詳情。
 
 ## 技術棧
 - ECharts：用於生成和顯示3D圖表。
