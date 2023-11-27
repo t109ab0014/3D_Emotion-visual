@@ -1,4 +1,4 @@
-# 3D_Emotion-visual
+
 # 3D情緒可視化圖表 (3D Emotion-Visual)
 
 ## 項目介紹
