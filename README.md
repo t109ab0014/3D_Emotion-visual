@@ -30,6 +30,9 @@ https://github.com/t109ab0014/3D_Emotion-visual/assets/131231801/89ccd033-7a9c-4
 <img width="360" alt="PAD" src="https://github.com/t109ab0014/3D_Emotion-visual/assets/131231801/34d9e9dc-2363-4eb8-845d-ec5340650a91">
 <img width="360" alt="PPP" src="https://github.com/t109ab0014/3D_Emotion-visual/assets/131231801/c21689c5-b752-4ad2-803e-70cb837d9089">
 
+## 致謝
+感恩Daniel Ho與汪順順提供專業諮詢，偶好想你們
+
 ## 聯繫方式
 如有任何疑問或合作意向，請通過 [GitHub](https://github.com/t109ab0014) 聯繫我。
 
